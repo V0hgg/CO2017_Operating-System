@@ -1,0 +1,10 @@
+1 9
+alloc 9000 0
+alloc 5000 1
+alloc 1500 2
+alloc 1600 3
+write 99 2 100
+write 103 0 10
+write 10 3 500
+alloc 2500 4
+write 1000 4 1

@@ -1,0 +1,8 @@
+1 7
+alloc 12345 0
+alloc 500 1
+alloc 1234 2
+write 321 0 599
+write 765 1 544
+free 2
+write 42 0 123
